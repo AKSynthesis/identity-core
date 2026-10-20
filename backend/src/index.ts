@@ -1,0 +1,1 @@
+console.log('identity-core backend starting...');
